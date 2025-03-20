@@ -7,6 +7,9 @@ NUC-Net is a network based on non-uniform cylindrical partitioning for efficient
 
 ## Updates
 - The code will be publicly released soon. Stay tuned.
+- **Non-uniform Cylindrical Partition**: An adaptive partitioning method to better capture the geometric structure of LiDAR point clouds.
+- **Nonuniform Multi-scale Aggregation**: A novel feature aggregation technique that dynamically adjusts receptive fields based on spatial distribution.
+- **Instance Augmentation**: A data augmentation strategy designed to enhance the robustness of instance-level segmentation.
 
 ## Features
 - Non-uniform cylindrical partitioning strategy
