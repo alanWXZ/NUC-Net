@@ -9,9 +9,8 @@ NUC-Net is a network based on non-uniform cylindrical partitioning for efficient
 - The code will be publicly released soon. Stay tuned.
 
 ## Features
-- Efficient LiDAR point cloud segmentation
 - Non-uniform cylindrical partitioning strategy
-- Faster and more accurate processing of large-scale scenes
+- Faster and more accurate processing of LIDAR point cloud
 - A few lines of code are enough to bring a significant improvement.
 
 
