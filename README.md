@@ -1,4 +1,5 @@
-# NUC-Net
+# NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation
+
 NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation
 
 
