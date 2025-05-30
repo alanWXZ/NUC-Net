@@ -19,6 +19,7 @@ NUC-Net is a network based on non-uniform cylindrical partitioning for efficient
 
 <img src="generalizability.png" alt="generalizability" width="400"/>
 
-<img src="performance.png" alt="performance" width="600"/>
+<img src="performance.png" alt="performance" width="800"/>
+
 ## Installation
-Please refer to the following link: https://github.com/xinge008/Cylinder3D
+-Please refer to the following link: https://github.com/xinge008/Cylinder3D
