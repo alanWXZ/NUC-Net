@@ -15,7 +15,7 @@ NUC-Net is a network based on non-uniform cylindrical partitioning for efficient
 - Non-uniform cylindrical partitioning strategy
 - Faster and more accurate processing of LIDAR point cloud
 - A few lines of code are enough to bring a significant improvement.
-- Our method demonstrates strong generalizability and significantly enhances the performance of PolarNet and Cylinder3D as shown in the Figure below.
+- Our method demonstrates strong generalizability and significantly enhances the performance of PolarNet and Cylinder3D as shown in the Figure below. The results presented in the table are obtained with test-time augmentation.
 
 <img src="generalizability.png" alt="generalizability" width="400"/>
 
