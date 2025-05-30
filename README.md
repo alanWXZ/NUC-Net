@@ -18,5 +18,5 @@ NUC-Net is a network based on non-uniform cylindrical partitioning for efficient
 - A few lines of code are enough to bring a significant improvement.
 
 
-![](generalizability.png)
+<img src="generalizability.png" alt="generalizability" width="400"/>
 ## Installation
