@@ -1,6 +1,7 @@
 # NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation
 
-
+## News
+- NUC-Net was accepted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) in 2025.
 
 
 ## Project Overview
