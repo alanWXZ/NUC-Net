@@ -8,7 +8,6 @@
 NUC-Net is a network based on non-uniform cylindrical partitioning for efficient LiDAR semantic segmentation. This method overcomes the high computational cost of traditional -based approaches by adaptively partitioning point cloud data, significantly improving the efficiency and accuracy of LiDAR point cloud processing in large-scale environments.
 
 ## Updates
-- The code will be publicly released soon. Stay tuned.
 - **Non-uniform Cylindrical Partition**: An adaptive partitioning method to better capture the geometric structure of LiDAR point clouds.  (Completed)
 - **Instance Augmentation**: A data augmentation strategy designed to enhance the robustness of instance-level segmentation.  (Coming soon)
 
