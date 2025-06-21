@@ -27,11 +27,11 @@ NUC-Net is a network based on non-uniform cylindrical partitioning for efficient
 ## Citation
 -If you find NUC-Net useful to your research, please cite our work:
 <pre>
-'''@article{wang2025nuc,
+@article{wang2025nuc,
   title={NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation},
   author={Wang, Xuzhi and Feng, Wei and Kong, Lingdong and Wan, Liang},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2025},
   publisher={IEEE}
-}'''
+}
 <pre>
